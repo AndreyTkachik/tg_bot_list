@@ -20,3 +20,14 @@ python3 main.py
 - Просмотр списка дел при нажатии кнопки.
 - Удаление определенного дела при нажатии кнопки.
 - Удаление всех дел при нажатии кнопки.
+
+## Функционал
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/1.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/2.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/3.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/4.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/5.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/6.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/7.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/8.png?raw=true)
+![alt text](https://github.com/AndreyTkachik/tg_bot_list/blob/in_progress/pictures/9.png?raw=true)
